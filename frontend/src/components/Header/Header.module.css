@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  padding: 24px 0;
+
+  background-color: white;
+}
+
+.logo {
+  display: block;
+
+  width: 256px;
+  margin: 0 auto;
+}

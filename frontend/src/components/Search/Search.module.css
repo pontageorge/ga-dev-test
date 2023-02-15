@@ -1,0 +1,16 @@
+.container input {
+  display: block;
+  margin: 24px auto;
+  padding: 0 8px;
+
+  font-size: 16px;
+
+  height: 48px;
+  width: 512px;
+
+  border: none;
+  outline: none;
+  border-radius: 4px;
+
+  box-shadow: 0 0 0 5px rgb(145 145 145 / 20%);
+}

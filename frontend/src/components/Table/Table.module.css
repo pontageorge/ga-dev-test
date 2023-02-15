@@ -1,0 +1,44 @@
+.transactions_table {
+  width: 700px;
+
+  margin: 0 8px;
+  border-radius: 8px;
+
+  table-layout: fixed;
+
+  box-shadow: 0 2px 4px 0 #acacac80;
+}
+
+.transactions_table thead {
+  color: white;
+}
+
+.transactions_table th {
+  padding: 8px;
+  text-align: left;
+
+  background-color: #0070ff;
+}
+
+.transactions_table th:first-child {
+  border-radius: 8px 0 0 0;
+}
+
+.transactions_table th:last-child {
+  border-radius: 0 8px 0 0;
+}
+
+.transactions_table td {
+  padding: 8px;
+  text-align: left;
+
+  background-color: white;
+}
+
+.transactions_table tr:last-child td:first-child {
+  border-radius: 0 0 0 8px;
+}
+
+.transactions_table tr:last-child td:last-child {
+  border-radius: 0 0 8px 0;
+}

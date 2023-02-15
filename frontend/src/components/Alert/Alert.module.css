@@ -1,0 +1,15 @@
+.alert {
+  margin: 0 auto;
+  padding: 8px;
+
+  width: fit-content;
+
+  text-align: center;
+  color: #ff3838;
+  font-weight: bold;
+
+  border: 1px solid #ff3838;
+  background-color: rgba(255, 56, 56, 0.13);
+
+  border-radius: 8px;
+}
